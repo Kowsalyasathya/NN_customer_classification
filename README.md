@@ -1,7 +1,6 @@
 # Developing a Neural Network Classification Model
 
 ## AIM
-
 To develop a neural network classification model for the given dataset.
 
 ## Problem Statement
@@ -13,9 +12,7 @@ In their existing market, the sales team has classified all customers into 4 seg
 You are required to help the manager to predict the right group of the new customers.
 
 ## Neural Network Model
-
 ![421905091-a932ae3d-dda2-4d0f-b588-f4092f3a0155](https://github.com/user-attachments/assets/b81ec363-d084-492f-ac84-72b39e20c25a)
-
 
 ## DESIGN STEPS
 
